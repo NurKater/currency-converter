@@ -1,7 +1,7 @@
 import reqpip --version
 
 
-API_KEY = "ТВОЙ_API_КЛЮЧ"
+API_KEY = "API"
 BASE_URL = "https://api.exchangerate-api.com/v4/latest/"
 
 
